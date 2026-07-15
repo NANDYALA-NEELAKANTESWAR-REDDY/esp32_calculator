@@ -96,5 +96,4 @@ If your default branch is `master` instead of `main`, replace `main` with `maste
 
 - The sketch uses `Serial.begin(115200)` for debugging.
 - If the LCD shows nothing, recheck the wiring and contrast adjustment.# esp32_calculator
-# ESP32_calculator
-# ESP32_calculator
+
